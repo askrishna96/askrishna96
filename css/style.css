@@ -1,0 +1,165 @@
+.logo{
+  background-color: #3498db;
+  text-align: left;
+  border: 2px solid black;
+  padding-left: 15px;
+}
+
+.lt{
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.navbar{
+  margin: 1px;
+}
+
+.brand{
+  text-align: left;
+  color:white;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+.nav{
+  padding: 5px;
+}
+
+.dropicons{
+  height: 40px;
+  width: 40px;
+  margin-left: 15px;
+}
+
+.box{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.link{
+  text-align: center;
+}
+
+.container{
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.profile{
+  height: 350px;
+  width: 350px;
+  border: 5px solid black;
+}
+
+.col-lg-4{
+  padding: 10px;
+  border: 4px solid #2980b9;
+}
+
+.col-lg-7{
+  margin-top: 20px;
+  border: 4px solid #2980b9;
+  margin-left: 25px;
+}
+
+.ab{
+  font-weight: bold;
+}
+
+.name{
+  color: black;
+  font-weight: bold;
+  font-size: 31.5px;
+}
+
+.col-lg-4{
+  margin-top: 20px;
+  background-color: #1abc9c;
+}
+
+.col-lg-7{
+  background-color: #1abc9c;
+}
+
+.col-lg-3{
+  margin-top: 20px;
+  background-color: #1abc9c;
+  padding: 10px;
+  border: 4px solid #2980b9;
+  font-weight: bold;
+}
+
+.col-lg-8{
+  margin-top: 20px;
+  background-color: black;
+  padding: 10px;
+  border: 4px solid #2980b9;
+  margin-right: 27px;
+}
+
+.col-lg-12{
+
+    margin-top: 20px;
+    background-color: #1abc9c;
+    padding: 10px;
+    border: 4px solid #2980b9;
+    font-weight: bold;
+}
+
+.description{
+  text-align: left;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.ytbtn{
+  border: 3px solid black;
+  background-color: #c0392b;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+
+.error{
+  text-align: center;
+  background-color: #bdc3c7;
+}
+
+.carousel-inner{
+  width: 700px;
+}
+
+.contact{
+  background-color: #bdc3c7;
+  padding: 5px;
+  text-align: center;
+  border: 4px solid black;
+}
+
+.shopimg{
+  height: 393px;
+  width: 700px;
+}
+
+.matter{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.color{
+  color: #8e44ad;
+  font-weight: bold;
+}
+
+.wa{
+  color: #27ae60;
+  font-weight: bold;
+}
+
+.mail{
+  color: #e74c3c;
+  font-weight: bold;
+}
